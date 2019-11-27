@@ -670,7 +670,7 @@ group "daisysGarden" [
      baseline [
       pos [ 0 0 1.65 ]
       scale [ 2.5 1 2.5 ]
-      kern [ 1e-006 ]
+      kern [ 1.e-006 ]
       graphic [
        code [ "daisySZ" ]
       ]
