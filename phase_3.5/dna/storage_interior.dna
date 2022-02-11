@@ -18,44 +18,44 @@ model "phase_3.5/models/modules/tt_m_ara_int_toonhall" [
 
 
 // store_texture [ "TI_wallpaper" "wall_paper_a1"
-//                 "phase_3.5/maps/wall_paper_a1.jpg" ]
+//                 "phase_3.5/maps/wall_paper_a1.png" ]
 // store_texture [ "TI_wallpaper" "wall_paper_a2"
-//                 "phase_3.5/maps/wall_paper_a2.jpg" ]
+//                 "phase_3.5/maps/wall_paper_a2.png" ]
 // store_texture [ "TI_wallpaper" "wall_paper_a3"
-//                 "phase_3.5/maps/wall_paper_a3.jpg" ]
+//                 "phase_3.5/maps/wall_paper_a3.png" ]
 // store_texture [ "TI_wallpaper" "wall_paper_a4"
-//                 "phase_3.5/maps/wall_paper_a4.jpg" ]
+//                 "phase_3.5/maps/wall_paper_a4.png" ]
 // store_texture [ "TI_wallpaper" "wall_paper_a5"
-//                 "phase_3.5/maps/wall_paper_a5.jpg" ]
+//                 "phase_3.5/maps/wall_paper_a5.png" ]
 
 store_texture [ "TI_wallpaper" "stripeB5"
-                "phase_3.5/maps/stripeB5.jpg" ]
+                "phase_3.5/maps/stripeB5.png" ]
 
 store_texture [ "TI_wallpaper_border" "stripeB5"
-                "phase_3.5/maps/stripeB5.jpg" ]
+                "phase_3.5/maps/stripeB5.png" ]
 
 store_texture [ "TI_wainscotting" "wall_paper_b3"
-                "phase_3.5/maps/wall_paper_b3.jpg" ]
+                "phase_3.5/maps/wall_paper_b3.png" ]
 store_texture [ "TI_wainscotting" "wall_paper_b4"
-                "phase_3.5/maps/wall_paper_b4.jpg" ]
+                "phase_3.5/maps/wall_paper_b4.png" ]
 
 store_texture [ "TI_floor" "floor_wood"
-                "phase_3/maps/floor_create_toon.jpg" ]
+                "phase_3/maps/floor_create_toon.png" ]
 store_texture [ "TI_floor" "floor_carpet"
-                "phase_3.5/maps/carpet.jpg" ]
+                "phase_3.5/maps/carpet.png" ]
 
 store_texture [ "TI_molding" "molding_wood1"
-                "phase_3.5/maps/molding_wood1.jpg" ]
+                "phase_3.5/maps/molding_wood1.png" ]
 store_texture [ "TI_molding" "molding_wood2"
-                "phase_3.5/maps/molding_wood2.jpg" ]
+                "phase_3.5/maps/molding_wood2.png" ]
 
 
 store_texture [ "TI_couch" "couch1"
-                "phase_3.5/maps/couch.jpg" ]
+                "phase_3.5/maps/couch.png" ]
 store_texture [ "TI_couch" "couch2"
-                "phase_3.5/maps/couch2.jpg" ]
+                "phase_3.5/maps/couch2.png" ]
 store_texture [ "TI_couch" "couch3"
-                "phase_3.5/maps/couch3.jpg" ]
+                "phase_3.5/maps/couch3.png" ]
 
 
 
