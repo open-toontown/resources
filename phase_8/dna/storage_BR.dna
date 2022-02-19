@@ -66,7 +66,7 @@ store_texture [ "texture" "street_curb_BR_tex"
 		"phase_3.5/maps/snow.png" 	]
 
 store_font [ "font" "BR_Aftershock" 
-             "phase_3/models/fonts/Aftershock" ]
+             "phase_3/models/fonts/Aftershock.ttf" ]
 
 hood_model "phase_8/models/props/signs_BR" [
 	store_node [ "sign" "TB_sign1" "BR_sign1" ]

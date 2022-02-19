@@ -45,7 +45,7 @@ store_texture [ "texture" "street_sidewalk_MM_keyboard_tex"
 
 
 store_font [ "font" "MM_Musicals"
-             "phase_3/models/fonts/Musicals" ]
+             "phase_3/models/fonts/Musicals.ttf" ]
 
 hood_model "phase_6/models/props/signs_MM" [
 	store_node [ "sign" "MM_sign1" ]

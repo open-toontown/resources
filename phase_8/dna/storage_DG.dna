@@ -72,7 +72,7 @@ store_texture [ "texture" "street_curb_DG_tex"
 
 
 store_font [ "font" "DG_Ironwork" 
-             "phase_3/models/fonts/Ironwork" ]
+             "phase_3/models/fonts/Ironwork.ttf" ]
 
 hood_model "phase_8/models/props/signs_DG" [
 	store_node [ "sign" "DG_sign1" ]
