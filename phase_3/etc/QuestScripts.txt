@@ -14,7 +14,7 @@ WAIT 1
 FINISH_QUEST_MOVIE
 
 ID tutorial_mickey
-LOAD_SFX soundRun "phase_3.5/audio/sfx/AV_footstep_runloop.wav"
+LOAD_SFX soundRun "phase_3.5/audio/sfx/AV_footstep_runloop.ogg"
 LOAD_CC_DIALOGUE mickeyTutorialDialogue_1 "phase_3/audio/dial/CC_%s_tutorial02.mp3"
 LOAD_CC_DIALOGUE mickeyTutorialDialogue_2 "phase_3.5/audio/dial/CC_tom_tutorial_%s01.mp3"
 LOAD_CC_DIALOGUE mickeyTutorialDialogue_3a "phase_3/audio/dial/CC_%s_tutorial03.mp3"
