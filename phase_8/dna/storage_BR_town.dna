@@ -30,4 +30,4 @@ place_model "phase_8/models/modules/BR_pond" [
 place_model "phase_6/models/cogHQ/Cog_Tunnel" [
 	store_node [ "prop" "prop_cog_tunnel" "" ]
 	]
-store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy" ]
+store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy.ttf" ]

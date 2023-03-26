@@ -41,14 +41,14 @@ hood_model "phase_3.5/models/props/trees" [
 	]
     
 store_texture [ "texture" "street_street_TT_tex"	
-		"phase_3.5/maps/sidewalkbrown.jpg"		]
+		"phase_3.5/maps/sidewalkbrown.png"		]
 store_texture [ "texture" "street_sidewalk_TT_tex"
-		"phase_3.5/maps/sidewalk_4cont_brown.jpg"	]
+		"phase_3.5/maps/sidewalk_4cont_brown.png"	]
 store_texture [ "texture" "street_curb_TT_tex"
-		"phase_3.5/maps/curb_brown_even.jpg"	]
+		"phase_3.5/maps/curb_brown_even.png"	]
 
 store_font [ "font" "TT_Comedy"
-             "phase_3/models/fonts/Comedy" ]
+             "phase_3/models/fonts/Comedy.ttf" ]
 
 hood_model "phase_4/models/props/signs_TTC" [
 	store_node [ "sign" "TTC_sign1" ]

@@ -358,7 +358,7 @@ model "phase_4/models/props/construction_sign" [
 
 // This font is no longer used.
 //store_font [ "font" "comic"
-//             "phase_3/models/fonts/Comic" ]
+//             "phase_3/models/fonts/Comic.ttf" ]
 
 // We switched the interface font from impress to humanist
 // Warning!  This is overridden in PlayGame.py

@@ -35,7 +35,7 @@ hood_model "phase_6/models/props/dockpilings" [
 	store_node [ "prop" "prop_4ftdockpiling" ]
 	]
 
-store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy" ]
+store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy.ttf" ]
 
 
 hood_model "phase_6/models/props/signs_DD" [
@@ -49,14 +49,14 @@ hood_model "phase_6/models/props/small_round_barrel" [
 	]
 
 store_texture [ "texture" "street_street_DD_tex"
-		"phase_3.5/maps/boardwalk_floor.jpg"	]
+		"phase_3.5/maps/boardwalk_floor.png"	]
 store_texture [ "texture" "street_sidewalk_DD_tex"
-		"phase_3.5/maps/boardwalk_floor_dark.jpg"	]
+		"phase_3.5/maps/boardwalk_floor_dark.png"	]
 store_texture [ "texture" "street_curb_DD_tex"
-		"phase_3.5/maps/curb_boardwalk.jpg"	]
+		"phase_3.5/maps/curb_boardwalk.png"	]
 
 store_font [ "font" "DD_Portago"
-             "phase_3/models/fonts/Portago" ]
+             "phase_3/models/fonts/Portago.ttf" ]
 
 hood_model "phase_6/models/props/streetlight_DD" [
 	store_node [ "holiday_prop" "streetlight_DD_left" ]
