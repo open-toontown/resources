@@ -368,11 +368,11 @@ model "phase_3.5/models/props/trees" [
 	]
 
 store_texture [ "texture" "street_street_TT_tex"	
-		"phase_3.5/maps/sidewalkbrown.png"		]
+		"phase_3.5/maps/sidewalkbrown.jpg"		]
 store_texture [ "texture" "street_sidewalk_TT_tex"
-		"phase_3.5/maps/sidewalk_4cont_brown.png"	]
+		"phase_3.5/maps/sidewalk_4cont_brown.jpg"	]
 store_texture [ "texture" "street_curb_TT_tex"
-		"phase_3.5/maps/curb_brown_even.png"	]
+		"phase_3.5/maps/curb_brown_even.jpg"	]
 
 
 model "phase_3.5/models/props/streetlight_TT" [

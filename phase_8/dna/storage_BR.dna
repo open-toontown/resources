@@ -59,14 +59,14 @@ hood_model "phase_8/models/modules/BR_windows" [
 
 
 store_texture [ "texture" "street_street_BR_tex"
-		"phase_3.5/maps/cobblestone_blue.png"	]
+		"phase_3.5/maps/cobblestone_blue.jpg"	]
 store_texture [ "texture" "street_sidewalk_BR_tex"
-		"phase_3.5/maps/snow.png" 	]
+		"phase_3.5/maps/snow.jpg" 	]
 store_texture [ "texture" "street_curb_BR_tex"
-		"phase_3.5/maps/snow.png" 	]
+		"phase_3.5/maps/snow.jpg" 	]
 
 store_font [ "font" "BR_Aftershock" 
-             "phase_3/models/fonts/Aftershock.ttf" ]
+             "phase_3/models/fonts/Aftershock" ]
 
 hood_model "phase_8/models/props/signs_BR" [
 	store_node [ "sign" "TB_sign1" "BR_sign1" ]

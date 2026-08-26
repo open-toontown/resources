@@ -64,15 +64,15 @@ hood_model "phase_8/models/props/daisy_park_table" [
 
 
 store_texture [ "texture" "street_street_DG_tex"	
-		"phase_3.5/maps/dustroad.png"		]
+		"phase_3.5/maps/dustroad.jpg"		]
 store_texture [ "texture" "street_sidewalk_DG_tex"
-		"phase_3.5/maps/grassDG.png"	]
+		"phase_3.5/maps/grassDG.jpg"	]
 store_texture [ "texture" "street_curb_DG_tex"
-		"phase_3.5/maps/grassDG.png"	]
+		"phase_3.5/maps/grassDG.jpg"	]
 
 
 store_font [ "font" "DG_Ironwork" 
-             "phase_3/models/fonts/Ironwork.ttf" ]
+             "phase_3/models/fonts/Ironwork" ]
 
 hood_model "phase_8/models/props/signs_DG" [
 	store_node [ "sign" "DG_sign1" ]
